@@ -7,7 +7,7 @@ i enjoyed making this with css!
 ## Aperçu
 Voici une capture d'écran de l'application :
 
-![boy cartoon](cartoon-boy-css)
+![boy cartoon](cartoon-boy-css.PNG)
 
 ## Installation
 1. Clonez le dépôt.
